@@ -4,12 +4,18 @@ heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: 
 actionText: Quick Start →
 actionLink: /guide/
-features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by  with ❤️
 ---
+
+Welcome to the Audica Modding Wiki! Here you will find all things Audica.
+
+## Maudica
+
+A new website where you can browse, download, and upload AUDICA maps. Current features of the site include filtering, sorting, and search, with more planned.
+
+* [Maudica](https://maudica.com/)
+
+## Modding Discord Server
+
+You found this wiki from elsewhere? Come join the discussion in the Discord server, this is where all this started!
+
+* [Audica Modding Discord Server](https://discord.gg/cakQUt5)
