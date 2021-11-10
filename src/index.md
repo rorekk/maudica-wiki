@@ -1,12 +1,16 @@
 ---
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: 
+tagline: Welcome to the Audica Modding Wiki! Here you will find all things Audica.
 actionText: Quick Start →
 actionLink: /guide/
 ---
 
-Welcome to the Audica Modding Wiki! Here you will find all things Audica.
+## Modding Guide
+
+* [Getting Started](/guide)
+* [Files](/files)
+
 
 ## Maudica
 

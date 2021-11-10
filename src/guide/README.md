@@ -167,5 +167,5 @@ Here are some additional scripts to help with REAPER
 
 [MIDI Authoring](http://www.audica.wiki/audicawiki/index.php/MIDI_Authoring)
 
-[MIDI format](http://www.audica.wiki/audicawiki/index.php/Song.mid)
+[MIDI format](/files/#mid)
 
