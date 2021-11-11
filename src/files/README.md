@@ -216,7 +216,7 @@ The community tracks are used on their own only, for the community maps function
 
 ### Pitch
 
-The pitch (note) controls the position of the targets on the [grid sphere](http://www.audica.wiki/audicawiki/index.php/Grid_Sphere).
+The pitch (note) controls the position of the targets on the [grid sphere](/misc/#grid-sphere).
 
 ![](./reaper-pitch-grid.png)
 

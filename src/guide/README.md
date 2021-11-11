@@ -148,7 +148,7 @@ It is still in active development, with new features being added all the time to
 
 Reaper is the official tool used by Harmonix to make their songs. However, it is pretty advanced. If you're already comfortable in DAWs and don't mind the learning curve, Reaper is probably the choice for you.
 
-[Download](http://reaper.fm/download.php)
+[Download](https://www.reaper.fm/download.php)
 
 
 Harmonix has a great tutorial and documentation that you can check out here:
@@ -165,7 +165,7 @@ Here are some additional scripts to help with REAPER
 
 #### Docs
 
-[MIDI Authoring](http://www.audica.wiki/audicawiki/index.php/MIDI_Authoring)
+[MIDI Authoring](/authoring/#midi-authoring)
 
 [MIDI format](/files/#mid)
 
