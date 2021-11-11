@@ -546,3 +546,24 @@ Location of the spatial fusion file
 #### fusionUnspatialized
 
 Location of the sub fusion file
+
+## extrafriends.json
+
+This file is for storing cross-platform friends. Not available for PSVR.
+
+```json
+{
+    "friends": [
+        {
+            "leaderboard_friend_id": "44fcf4a6-6566-4a61-92e7-2d645db60e5f",
+            "name": "CoachTony"
+        },
+        ...
+    ]
+}
+```
+
+On PC this file is stored in `AppData\LocalLow\Harmonix Music Systems, Inc_\Audica`. You can find your own friend code in the game just by using the Copy function in Settings > Friends.
+
+On Quest this file is stored in `PC\Quest\Internal shared storage\Android\data\com.harmonixmusic.kata\files`. Currently the only ways to get your friend code is either the PC method using the Rift version of the game, or join the Modding Discord Server, go in the #leaderboards channel and use the .findfriendcode "your_username" command (quotes are only necessary if the username contains spaces). The requested friend code will only show up if the player has played at least one song.
+
