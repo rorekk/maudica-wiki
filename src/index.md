@@ -10,6 +10,8 @@ actionLink: /guide/
 
 * [Getting Started](/guide)
 * [Files](/files)
+* [Authoring](/authoring)
+* [Misc](/misc)
 
 
 ## Maudica
