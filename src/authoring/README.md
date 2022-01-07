@@ -320,20 +320,20 @@ Allowed targets: Basic, Sustain (incl. Duals of these)
 
 **Basic targets...**
 
-  - No more than one target per 1/4 note. (more info in Beginner
+  - No more than one target per beat. (more info in Beginner
     Suggestions)
   - No more than 3 grid spaces between consecutive targets, regardless
     of how much musical time is between targets.
 
 **Sustains...**
 
-  - At least a 1/4 note of rest in between a sustain end and next target
+  - At least one beat of rest in between a sustain end and next target
     on the same hand
 
 **Simultaneous targets...**
 
-  - At least 1 measure of lead in time.
-  - At least 1/2 measure before next target.
+  - At least 4 beats of lead in time.
+  - At least 2 beats before next target.
   - No hand crossing.
   - Targets can't be more than 3 grid spaces apart. Aim for 1-2 grid
     spaces.
@@ -348,10 +348,10 @@ Allowed targets: Basic, Sustain (incl. Duals of these)
 
 #### Beginner (Suggestions)
 
-  - If you author consecutive 1/4 notes, only author them for Basic
+  - If you author on consecutive beats, only author them for Basic
     targets, try not to use more than 2 in a row, and only use them on
-    harder songs. The easiest songs shouldn't have any consecutive
-    quarter notes.
+    harder songs. The easiest songs shouldn't have any targets on consecutive
+    beats (author on every other beat).
   - Rhythms should deviate from this default pacing when appropriate to
     highlight signature rhythmic moments in specific songs (or to
     feature sustains/chains at appropriate times).
@@ -370,13 +370,13 @@ Allowed targets: Basic, Sustain, Melee, Chain (incl. Dual Chains)
 **Simultaneous targets...**
 
   - can be no more than 3 grid spaces apart.
-  - when changing mechanics, need at least 1/2 note of rest before a
+  - when changing mechanics, need at least 2 beats of rest before a
     simultaneous target.
   - No hand crossing
 
 **Basic targets...**
 
-  - No more than 3 grid spaces between targets that're \< 1/2 note
+  - No more than 3 grid spaces between targets that are less than 2 beats
     apart. Targets that have more musical time between them can be
     spaced more distantly.
   - No more than 2 8th notes in succession.
@@ -384,29 +384,29 @@ Allowed targets: Basic, Sustain, Melee, Chain (incl. Dual Chains)
 
 **Melee targets...**
 
-  - Must be isolated, or at least 1/2 note after a sustain start
-  - 1/2 note of rest after a melee if changing mechanics.
+  - Must be isolated, or at least 2 beats after a sustain start
+  - 2 beats of rest after a melee if changing mechanics.
   - No more than one melee (or two-handed melees) per 1/4 note.
 
 **Sustains...**
 
-  - 1/4 note in between sustain end and next target on the same hand.
+  - 1 beat in between sustain end and next target on the same hand.
 
 **Chain targets...**
 
   - Must be isolated, no targets or melees during chains.
-  - When changing mechanics, needs at least 1/2 note of rest before and
+  - When changing mechanics, needs at least 2 beats of rest before and
     after.
 
 ***No slotted notes***
 
 #### Standard (Suggestions)
 
-  - Use mostly 1/2 and 1/4 notes,
+  - Use mostly half and quarter notes,
   - Avoid using more than 8 successive quarter notes.
-  - Group syncopated, 1/4 and 1/8 notes together closely (\~1 grid space
+  - Group syncopated, quarter and eighth notes together closely (\~1 grid space
     apart).
-  - Successive 8th notes should be saved for the most difficult songs in
+  - Successive eighth notes should be saved for the most difficult songs in
     the tier.
   - Notes that are 1.5 beats apart are ok up to \~150 BPM.
   - Start chains on strong beats.
@@ -433,18 +433,18 @@ these)
 
 **Basic targets...**
 
-  - No more than 3 consecutive 16th notes
+  - No more than 3 consecutive sixteenth notes
 
 **Slot targets...**
 
-  - When changing mechanics, horizontal slots need 1/2 note of lead-in
+  - When changing mechanics, horizontal slots need 2 beats of lead-in
     time
-  - When changing mechanics, vertical slots need 1/4 note of lead-in
+  - When changing mechanics, vertical slots need 1 beat of lead-in
     time
 
 **Chains...**
 
-  - At least 1/4 note between end of a chain and next target on same
+  - At least 1 beat between end of a chain and next target on same
     hand
 
 **Simultaneous targets...**
@@ -454,7 +454,7 @@ these)
 
 **Sustains...**
 
-  - At least 1/4 note between end of sustain and next target on same
+  - At least 1 beat between end of sustain and next target on same
     hand
 
 **Melees...**
@@ -480,13 +480,13 @@ Standard-to-Advanced-to-Expert ramp smooth as possible.”
 
 Sustains...
 
-  - At least 1/4 note between end of sustain and next target on same
+  - At least 1 beat between end of sustain and next target on same
     hand.
 
 #### Expert (Suggestions)
 
   - Don't be dumb
-  - End of a chain should have at least 1/4 note of space between the
+  - End of a chain should have at least 1 beat of space between the
     last link and the next target on the same hand
 
 \*\*\* for more tips on mapping, see the [Audica Mapping
