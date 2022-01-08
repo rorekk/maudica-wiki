@@ -16,7 +16,7 @@ actionLink: /guide/
 
 ## Maudica
 
-A new website where you can browse, download, and upload AUDICA maps. Current features of the site include filtering, sorting, and search, with more planned.
+A new website where you can browse, download, and upload AUDICA maps! Current features of the site include filtering, sorting, and search, with more planned.
 
 * [Maudica](https://maudica.com/)
 
