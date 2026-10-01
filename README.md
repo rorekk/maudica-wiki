@@ -1,12 +1,27 @@
-# Requirements:
+# Maudica Wiki
+
+The Audica Modding Wiki, built with [VitePress](https://vitepress.dev/)
+
+## Requirements
+
 - Node.js
-- Yarn
+- pnpm
 
-# Installing:
-yarn install
+## Install
 
-# Running locally
-yarn dev
+```sh
+pnpm install
+```
 
-# VuePress Guide
-https://vuepress.vuejs.org/guide/
+## Run locally
+
+```sh
+pnpm docs:dev
+```
+
+## Build
+
+```sh
+pnpm docs:build
+pnpm docs:preview
+```

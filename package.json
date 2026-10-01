@@ -1,19 +1,11 @@
 {
-  "name": "maudica-wiki",
-  "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
-  "authors": {
-    "name": "",
-    "email": ""
-  },
-  "repository": "/maudica-wiki",
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "docs:dev": "vitepress dev docs/",
+    "docs:build": "vitepress build docs/",
+    "docs:preview": "vitepress preview docs/"
   },
-  "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.9.2"
+    "vitepress": "^1.6.3",
+    "vue": "^3.5.43"
   }
 }

@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # Authoring
 
 ## MIDI Authoring
@@ -43,7 +39,7 @@ don't have the game.
 data** (in a "cue" file format).
 
 If you're not familiar with "Midi," MIDI is a **simple computer file
-format** for **storing music note data**. It allows for up to *128*
+format** for **storing music note data**. It allows for up to _128_
 different notes to be assigned to all kinds of different things (really,
 anything in the world). If you were recording a full-size piano in MIDI
 for example (since a full-size piano has 88 keys) 88 of those 128
@@ -149,7 +145,7 @@ or the map will not be found by the game.
 **Examples:**
 
     "destiny_awwbees - Hyper Mode.mid"
-    
+
     "iwantu_Jeff Allen - All Dad Dabs.cues"
 
 Here are a list of **song shortnames** for all of our current songs:
@@ -169,7 +165,7 @@ leaderboard**.
 you can edit the map and choose "restart" from the pause menu to load
 the updated map.
 
-*'There are two formats that you can create maps in:*
+_'There are two formats that you can create maps in:_
 
 1\. **[MIDI file format](/files/#mid):** This is the format that
 Harmonix uses internally for authoring songs. We prefer to edit in MIDI,
@@ -231,10 +227,10 @@ authoring tools** in the form of **scripts**.
 The **channel property** of a note determines its **associated target
 type**:
 
-  - default
-  - slot target type
-  - chain start
-  - chain node
+- default
+- slot target type
+- chain start
+- chain node
 
 The **velocity property** of a note determines the percussive sound
 effect that each target "emits" when shot in-game.
@@ -273,14 +269,14 @@ preferences** so that your "**Ticks Per Quarter Note**" is set to
 
 To set this, go to
 
-    Options->Preferences, then in the Media->MIDI page 
+    Options->Preferences, then in the Media->MIDI page
     set "Ticks per quarter note for new MIDI items" to 480.
 
 ![](./reaper-ticks-per-quarter-note.png)
 
 As a starting point, you can **import MIDI files** for the **expert
 authoring** of each of our tracks by looking in
-**community\_maps/tools/example\_maps**
+**community_maps/tools/example_maps**
 
 To **import a MIDI file** into **REAPER**, go to:
 
@@ -288,8 +284,8 @@ To **import a MIDI file** into **REAPER**, go to:
 
 **When importing these MIDI files in REAPER, be sure to:**
 
-  - Have **"Expand 3 MIDI tracks to new REAPER tracks"** enabled
-  - Have **"Import MIDI tempo map"** enabled
+- Have **"Expand 3 MIDI tracks to new REAPER tracks"** enabled
+- Have **"Import MIDI tempo map"** enabled
 
 ![](./reaper-tempo-map-import.png)
 
@@ -314,49 +310,49 @@ Allowed targets: Basic, Sustain (incl. Duals of these)
 
 **Switching hands...**
 
-  - Switching between hands is considered a mechanic change; needs at
-    least 1 measure of lead-in time before switching to a different
-    color target.
+- Switching between hands is considered a mechanic change; needs at
+  least 1 measure of lead-in time before switching to a different
+  color target.
 
 **Basic targets...**
 
-  - No more than one target per beat. (more info in Beginner
-    Suggestions)
-  - No more than 3 grid spaces between consecutive targets, regardless
-    of how much musical time is between targets.
+- No more than one target per beat. (more info in Beginner
+  Suggestions)
+- No more than 3 grid spaces between consecutive targets, regardless
+  of how much musical time is between targets.
 
 **Sustains...**
 
-  - At least one beat of rest in between a sustain end and next target
-    on the same hand
+- At least one beat of rest in between a sustain end and next target
+  on the same hand
 
 **Simultaneous targets...**
 
-  - At least 4 beats of lead in time.
-  - At least 2 beats before next target.
-  - No hand crossing.
-  - Targets can't be more than 3 grid spaces apart. Aim for 1-2 grid
-    spaces.
+- At least 4 beats of lead in time.
+- At least 2 beats before next target.
+- No hand crossing.
+- Targets can't be more than 3 grid spaces apart. Aim for 1-2 grid
+  spaces.
 
-***No slotted notes***
+**_No slotted notes_**
 
-***No chains***
+**_No chains_**
 
-***No crossing hands***
+**_No crossing hands_**
 
-***No melees***
+**_No melees_**
 
 #### Beginner (Suggestions)
 
-  - If you author on consecutive beats, only author them for Basic
-    targets, try not to use more than 2 in a row, and only use them on
-    harder songs. The easiest songs shouldn't have any targets on consecutive
-    beats (author on every other beat).
-  - Rhythms should deviate from this default pacing when appropriate to
-    highlight signature rhythmic moments in specific songs (or to
-    feature sustains/chains at appropriate times).
-  - Not too many sustains. People tend to forget to hold the trigger
-    down at this difficulty.
+- If you author on consecutive beats, only author them for Basic
+  targets, try not to use more than 2 in a row, and only use them on
+  harder songs. The easiest songs shouldn't have any targets on consecutive
+  beats (author on every other beat).
+- Rhythms should deviate from this default pacing when appropriate to
+  highlight signature rhythmic moments in specific songs (or to
+  feature sustains/chains at appropriate times).
+- Not too many sustains. People tend to forget to hold the trigger
+  down at this difficulty.
 
 ### Standard
 
@@ -369,57 +365,57 @@ Allowed targets: Basic, Sustain, Melee, Chain (incl. Dual Chains)
 
 **Simultaneous targets...**
 
-  - can be no more than 3 grid spaces apart.
-  - when changing mechanics, need at least 2 beats of rest before a
-    simultaneous target.
-  - No hand crossing
+- can be no more than 3 grid spaces apart.
+- when changing mechanics, need at least 2 beats of rest before a
+  simultaneous target.
+- No hand crossing
 
 **Basic targets...**
 
-  - No more than 3 grid spaces between targets that are less than 2 beats
-    apart. Targets that have more musical time between them can be
-    spaced more distantly.
-  - No more than 2 8th notes in succession.
-  - No consecutive 8th notes on one hand.
+- No more than 3 grid spaces between targets that are less than 2 beats
+  apart. Targets that have more musical time between them can be
+  spaced more distantly.
+- No more than 2 8th notes in succession.
+- No consecutive 8th notes on one hand.
 
 **Melee targets...**
 
-  - Must be isolated, or at least 2 beats after a sustain start
-  - 2 beats of rest after a melee if changing mechanics.
-  - No more than one melee (or two-handed melees) per 1/4 note.
+- Must be isolated, or at least 2 beats after a sustain start
+- 2 beats of rest after a melee if changing mechanics.
+- No more than one melee (or two-handed melees) per 1/4 note.
 
 **Sustains...**
 
-  - 1 beat in between sustain end and next target on the same hand.
+- 1 beat in between sustain end and next target on the same hand.
 
 **Chain targets...**
 
-  - Must be isolated, no targets or melees during chains.
-  - When changing mechanics, needs at least 2 beats of rest before and
-    after.
+- Must be isolated, no targets or melees during chains.
+- When changing mechanics, needs at least 2 beats of rest before and
+  after.
 
-***No slotted notes***
+**_No slotted notes_**
 
 #### Standard (Suggestions)
 
-  - Use mostly half and quarter notes,
-  - Avoid using more than 8 successive quarter notes.
-  - Group syncopated, quarter and eighth notes together closely (\~1 grid space
-    apart).
-  - Successive eighth notes should be saved for the most difficult songs in
-    the tier.
-  - Notes that are 1.5 beats apart are ok up to \~150 BPM.
-  - Start chains on strong beats.
-  - If crossing hands, have lots of space between each target. No
-    hand-crossing during simultaneous targets.
-  - Consider making diagonal simultaneous targets a bit closer than the
-    required 3 spaces.
-  - In place of vertical simultaneous targets, consider nudging each
-    hand towards its natural side via GP Slider. (i.e. nudge left target
-    slightly left, nudge right hand target slightly right.)
-  - Use sustains wherever needed.
-  - Targets that precede a melee should be close enough to an oncoming
-    melee so that it's visible (within 2 grid space).
+- Use mostly half and quarter notes,
+- Avoid using more than 8 successive quarter notes.
+- Group syncopated, quarter and eighth notes together closely (\~1 grid space
+  apart).
+- Successive eighth notes should be saved for the most difficult songs in
+  the tier.
+- Notes that are 1.5 beats apart are ok up to \~150 BPM.
+- Start chains on strong beats.
+- If crossing hands, have lots of space between each target. No
+  hand-crossing during simultaneous targets.
+- Consider making diagonal simultaneous targets a bit closer than the
+  required 3 spaces.
+- In place of vertical simultaneous targets, consider nudging each
+  hand towards its natural side via GP Slider. (i.e. nudge left target
+  slightly left, nudge right hand target slightly right.)
+- Use sustains wherever needed.
+- Targets that precede a melee should be close enough to an oncoming
+  melee so that it's visible (within 2 grid space).
 
 ### Advanced
 
@@ -433,43 +429,43 @@ these)
 
 **Basic targets...**
 
-  - No more than 3 consecutive sixteenth notes
+- No more than 3 consecutive sixteenth notes
 
 **Slot targets...**
 
-  - When changing mechanics, horizontal slots need 2 beats of lead-in
-    time
-  - When changing mechanics, vertical slots need 1 beat of lead-in
-    time
+- When changing mechanics, horizontal slots need 2 beats of lead-in
+  time
+- When changing mechanics, vertical slots need 1 beat of lead-in
+  time
 
 **Chains...**
 
-  - At least 1 beat between end of a chain and next target on same
-    hand
+- At least 1 beat between end of a chain and next target on same
+  hand
 
 **Simultaneous targets...**
 
-  - Introduce simultaneous-target hand crossing.
-  - No more than 4 grid spaces apart
+- Introduce simultaneous-target hand crossing.
+- No more than 4 grid spaces apart
 
 **Sustains...**
 
-  - At least 1 beat between end of sustain and next target on same
-    hand
+- At least 1 beat between end of sustain and next target on same
+  hand
 
 **Melees...**
 
-  - If there's a simultaneous melee-and-target, no hand crossing. Use
-    these very sparingly, and only in more difficult songs.
+- If there's a simultaneous melee-and-target, no hand crossing. Use
+  these very sparingly, and only in more difficult songs.
 
 #### Advanced (Suggestions)
 
-  - The start and end of chains should be within 4 grid spaces of each
-    other.
-  - For easier songs, diagonal simultaneous targets should have some
-    lead-in time.
-  - Introduce hand crossing. For easier songs, author hands on the
-    proper side and lead the sequence so that they cross gradually.
+- The start and end of chains should be within 4 grid spaces of each
+  other.
+- For easier songs, diagonal simultaneous targets should have some
+  lead-in time.
+- Introduce hand crossing. For easier songs, author hands on the
+  proper side and lead the sequence so that they cross gradually.
 
 The tl;dr here is “use all target types and try to make the
 Standard-to-Advanced-to-Expert ramp smooth as possible.”
@@ -480,14 +476,14 @@ Standard-to-Advanced-to-Expert ramp smooth as possible.”
 
 Sustains...
 
-  - At least 1 beat between end of sustain and next target on same
-    hand.
+- At least 1 beat between end of sustain and next target on same
+  hand.
 
 #### Expert (Suggestions)
 
-  - Don't be dumb
-  - End of a chain should have at least 1 beat of space between the
-    last link and the next target on the same hand
+- Don't be dumb
+- End of a chain should have at least 1 beat of space between the
+  last link and the next target on the same hand
 
 \*\*\* for more tips on mapping, see the [Audica Mapping
 Guidelines](https://docs.google.com/document/d/1y4cXmhvu3gOtsiHwvieQPBEQjXQtao1nTxaP5afTHPM/edit?usp=sharing)

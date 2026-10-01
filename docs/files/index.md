@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # Files
 
 ## .audica
@@ -439,23 +435,23 @@ This is a json file that contains all the metadata. This file must be named `son
 
 ```json
 {
-    "songID": "addictedtoamemory",
-    "moggSong": "addictedtoamemory.moggsong",
-    "title": "Addicted To A Memory",
-    "artist": "Zedd ft. Bahari",
-    "author": "",
-    "midiFile": "addictedtoamemory.mid",
-    "targetDrums": "fusion/target_drums/destruct.json",
-    "sustainSongRight": "addictedtoamemory_sustain_r.moggsong",
-    "sustainSongLeft": "addictedtoamemory_sustain_l.moggsong",
-    "fxSong": "addictedtoamemory_extras.moggsong",
-    "songEndEvent": "event:/song_end/song_end_C#",
-    "highScoreEvent": "event:/results/results_high_score_C#",
-    "songEndPitchAdjust": 0.0,
-    "prerollSeconds": 0.5,
-    "previewStartSeconds": 61.2239990234375,
-    "useMidiForCues": false,
-    "hidden": false
+  "songID": "addictedtoamemory",
+  "moggSong": "addictedtoamemory.moggsong",
+  "title": "Addicted To A Memory",
+  "artist": "Zedd ft. Bahari",
+  "author": "",
+  "midiFile": "addictedtoamemory.mid",
+  "targetDrums": "fusion/target_drums/destruct.json",
+  "sustainSongRight": "addictedtoamemory_sustain_r.moggsong",
+  "sustainSongLeft": "addictedtoamemory_sustain_l.moggsong",
+  "fxSong": "addictedtoamemory_extras.moggsong",
+  "songEndEvent": "event:/song_end/song_end_C#",
+  "highScoreEvent": "event:/results/results_high_score_C#",
+  "songEndPitchAdjust": 0.0,
+  "prerollSeconds": 0.5,
+  "previewStartSeconds": 61.2239990234375,
+  "useMidiForCues": false,
+  "hidden": false
 }
 ```
 
@@ -566,4 +562,3 @@ This file is for storing cross-platform friends. Not available for PSVR.
 On PC this file is stored in `AppData\LocalLow\Harmonix Music Systems, Inc_\Audica`. You can find your own friend code in the game just by using the Copy function in Settings > Friends.
 
 On Quest this file is stored in `PC\Quest\Internal shared storage\Android\data\com.harmonixmusic.kata\files`. Currently the only ways to get your friend code is either the PC method using the Rift version of the game, or join the Modding Discord Server, go in the #leaderboards channel and use the .findfriendcode "your_username" command (quotes are only necessary if the username contains spaces). The requested friend code will only show up if the player has played at least one song.
-

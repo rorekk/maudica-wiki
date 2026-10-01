@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # Misc
 
 ## Scoring
@@ -123,42 +119,42 @@ a certain percentage.
 This is a list of the songs that comes with the game when you purchase
 it.
 
-| Song                                            | Artist                                         | Author (Mapper)   | songID                   | Release Date     |
-| ----------------------------------------------- | ---------------------------------------------- | ----------------- | ------------------------ | -----------------|
-| Addicted To A Memory                            | Zedd ft. Bahari                                | HMXRick           | addictedtoamemory        | June 10, 2019    |
-| Adrenaline                                      | Zedd & Grey                                    | HMXJeff           | adrenaline               | March 7, 2019    |
-| Boom Boom                                       | Iggy Azalea ft. Zedd                           | HMXJeff & HMXRick | boomboom                 | April 3, 2019    |
-| Break For Me                                    | James Landino ft. Noelle LeBlanc               | HMXRick           | breakforme               | May 24, 2019     |
-| Channel 42                                      | deadmau5 & Wolfgang Gartner                    | HMXRick           | channel42                | November 5, 2019 |
-| Collider                                        | Noisia                                         | HMXJeff           | collider                 | March 7, 2019    |
-| Decode Me                                       | inter:sect ft. Noelle LeBlanc & Naoko Takamoto | ProtoPip          | decodeme                 | August 28, 2019  |
-| Destiny                                         | 1788-L & Blanke                                | HMXJeff           | destiny                  | March 7, 2019    |
-| Everyday                                        | Logic & Marshmello                             | HMXRick           | everyday                 | November 5, 2019 |
-| Eye For An Eye                                  | ELYXR                                          | Simon             | eyeforaneye              | August 28, 2019  |
-| Game Time                                       | 3Lau ft. Ninja                                 | HMXRick           | gametime                 | April 18, 2019   |
-| G.O.A.T.                                        | Polyphia                                       | Simon             | goatpolyphia             | November 5, 2019 |
-| Gold Dust                                       | DJ Fresh ft. Ms. Dynamite                      | HMXJeff           | golddust                 | March 7, 2019    |
-| HR 8938 Cephei                                  | deadmau5                                       | HMXJeff           | hr8938cephei             | May 1, 2019      |
-| Highway To Oblivion                             | DragonForce                                    | HMXRick           | highwaytooblivion\_short | July 30, 2019    |
-| I Feel Love (Afrojack Remix)                    | Donna Summer                                   | HMXJeff           | ifeellove                | March 7, 2019    |
-| I Want U                                        | Alison Wonderland                              | HMXJeff           | iwantu                   | March 7, 2019    |
-| Illmerica                                       | Wolfgang Gartner                               | Simon             | illmerica                | November 5, 2019 |
-| Lazerface                                       | Jeff Allen                                     | HMXJeff           | lazerface                | March 7, 2019    |
-| Loyal                                           | ODESZA                                         | Simon & HMXRick   | loyal                    | November 5, 2019 |
-| Overtime                                        | KNOWER                                         | HMXRick           | overtime                 | May 1, 2019      |
-| POP/STARS                                       | K/DA ft. Madison Beer, (G)I-DLE, Jaira Burns   | HMXJeff           | popstars                 | March 20, 2019   |
-| Perfect (Exceeder)                              | Mason vs Princess Superstar                    | HMXJeff           | perfectexceeder          | June 10, 2019    |
-| Predator                                        | M-Cue                                          | HMXJeff           | predator                 | April 18, 2019   |
-| Raise Your Weapon (Noisia Remix)                | deadmau5                                       | HMXJeff & HMXRick | raiseyourweapon\_noisia  | March 20, 2019   |
-| Resistance                                      | Knife Party                                    | HMXJeff           | resistance               | May 24, 2019     |
-| Smoke                                           | Au5 & Fractal                                  | HMXJeff           | smoke                    | March 7, 2019    |
-| Splinter                                        | Savant                                         | HMXJeff           | splinter                 | March 7, 2019    |
-| Synthesized (Audica Remix)                      | Symbion Project                                | HMXJeff           | synthesized              | April 3, 2019    |
-| The Space                                       | James Egbert                                   | HMXJeff           | thespace                 | March 7, 2019    |
-| Time For Crime                                  | ORION                                          | HMXJeff & HMXRick | timeforcrime             | June 26, 2019    |
-| Titanium (Cazzette's Ant Seeking Hamster Remix) | David Guetta ft. Sia                           | HMXJeff           | titanium\_cazzette       | November 5, 2019 |
-| To The Stars                                    | Feed Me                                        | HMXRick           | tothestars               | June 26, 2019    |
-|                                                 |                                                |                   |                          |                  |
+| Song                                            | Artist                                         | Author (Mapper)   | songID                  | Release Date     |
+| ----------------------------------------------- | ---------------------------------------------- | ----------------- | ----------------------- | ---------------- |
+| Addicted To A Memory                            | Zedd ft. Bahari                                | HMXRick           | addictedtoamemory       | June 10, 2019    |
+| Adrenaline                                      | Zedd & Grey                                    | HMXJeff           | adrenaline              | March 7, 2019    |
+| Boom Boom                                       | Iggy Azalea ft. Zedd                           | HMXJeff & HMXRick | boomboom                | April 3, 2019    |
+| Break For Me                                    | James Landino ft. Noelle LeBlanc               | HMXRick           | breakforme              | May 24, 2019     |
+| Channel 42                                      | deadmau5 & Wolfgang Gartner                    | HMXRick           | channel42               | November 5, 2019 |
+| Collider                                        | Noisia                                         | HMXJeff           | collider                | March 7, 2019    |
+| Decode Me                                       | inter:sect ft. Noelle LeBlanc & Naoko Takamoto | ProtoPip          | decodeme                | August 28, 2019  |
+| Destiny                                         | 1788-L & Blanke                                | HMXJeff           | destiny                 | March 7, 2019    |
+| Everyday                                        | Logic & Marshmello                             | HMXRick           | everyday                | November 5, 2019 |
+| Eye For An Eye                                  | ELYXR                                          | Simon             | eyeforaneye             | August 28, 2019  |
+| Game Time                                       | 3Lau ft. Ninja                                 | HMXRick           | gametime                | April 18, 2019   |
+| G.O.A.T.                                        | Polyphia                                       | Simon             | goatpolyphia            | November 5, 2019 |
+| Gold Dust                                       | DJ Fresh ft. Ms. Dynamite                      | HMXJeff           | golddust                | March 7, 2019    |
+| HR 8938 Cephei                                  | deadmau5                                       | HMXJeff           | hr8938cephei            | May 1, 2019      |
+| Highway To Oblivion                             | DragonForce                                    | HMXRick           | highwaytooblivion_short | July 30, 2019    |
+| I Feel Love (Afrojack Remix)                    | Donna Summer                                   | HMXJeff           | ifeellove               | March 7, 2019    |
+| I Want U                                        | Alison Wonderland                              | HMXJeff           | iwantu                  | March 7, 2019    |
+| Illmerica                                       | Wolfgang Gartner                               | Simon             | illmerica               | November 5, 2019 |
+| Lazerface                                       | Jeff Allen                                     | HMXJeff           | lazerface               | March 7, 2019    |
+| Loyal                                           | ODESZA                                         | Simon & HMXRick   | loyal                   | November 5, 2019 |
+| Overtime                                        | KNOWER                                         | HMXRick           | overtime                | May 1, 2019      |
+| POP/STARS                                       | K/DA ft. Madison Beer, (G)I-DLE, Jaira Burns   | HMXJeff           | popstars                | March 20, 2019   |
+| Perfect (Exceeder)                              | Mason vs Princess Superstar                    | HMXJeff           | perfectexceeder         | June 10, 2019    |
+| Predator                                        | M-Cue                                          | HMXJeff           | predator                | April 18, 2019   |
+| Raise Your Weapon (Noisia Remix)                | deadmau5                                       | HMXJeff & HMXRick | raiseyourweapon_noisia  | March 20, 2019   |
+| Resistance                                      | Knife Party                                    | HMXJeff           | resistance              | May 24, 2019     |
+| Smoke                                           | Au5 & Fractal                                  | HMXJeff           | smoke                   | March 7, 2019    |
+| Splinter                                        | Savant                                         | HMXJeff           | splinter                | March 7, 2019    |
+| Synthesized (Audica Remix)                      | Symbion Project                                | HMXJeff           | synthesized             | April 3, 2019    |
+| The Space                                       | James Egbert                                   | HMXJeff           | thespace                | March 7, 2019    |
+| Time For Crime                                  | ORION                                          | HMXJeff & HMXRick | timeforcrime            | June 26, 2019    |
+| Titanium (Cazzette's Ant Seeking Hamster Remix) | David Guetta ft. Sia                           | HMXJeff           | titanium_cazzette       | November 5, 2019 |
+| To The Stars                                    | Feed Me                                        | HMXRick           | tothestars              | June 26, 2019    |
+|                                                 |                                                |                   |                         |                  |
 
 ### Extras
 
@@ -169,12 +165,12 @@ The campaign column shows which difficulty you need to complete it to
 unlock the song. Playing the campaign on a higher difficulty will unlock
 any song that is unlocked through lower difficulties.
 
-| Song                                 | Artist                                       | songID                  | Campaign | Release Date     |
-| ------------------------------------ | -------------------------------------------- | ----------------------- | -------- | -----------------|
-| Addicted To A Memory (Album Version) | Zedd ft. Bahari                              | addictedtoamemory\_full | Advanced | November 5, 2019 |
-| Destiny (Album Version)              | 1788-L & Blanke                              | destiny\_full           | Beginner | November 5, 2019 |
-| Highway To Oblivion (Album Version)  | DragonForce                                  | highwaytooblivion\_full | Expert   | July 30, 2019    |
-| POP/STARS (Album Version)            | K/DA ft. Madison Beer, (G)-IDLE, Jaira Burns | popstars\_full          | Moderate | November 5, 2019 |
+| Song                                 | Artist                                       | songID                 | Campaign | Release Date     |
+| ------------------------------------ | -------------------------------------------- | ---------------------- | -------- | ---------------- |
+| Addicted To A Memory (Album Version) | Zedd ft. Bahari                              | addictedtoamemory_full | Advanced | November 5, 2019 |
+| Destiny (Album Version)              | 1788-L & Blanke                              | destiny_full           | Beginner | November 5, 2019 |
+| Highway To Oblivion (Album Version)  | DragonForce                                  | highwaytooblivion_full | Expert   | July 30, 2019    |
+| POP/STARS (Album Version)            | K/DA ft. Madison Beer, (G)-IDLE, Jaira Burns | popstars_full          | Moderate | November 5, 2019 |
 
 #### PSVR Exclusives
 
@@ -182,7 +178,7 @@ These songs were timed exclusives for PS4 players. The exclusivity ended
 January 28, 2020.
 
 | Song                                                     | Artist                         | songID           | Release Date     |
-| -------------------------------------------------------- | ------------------------------ | ---------------- | -----------------|
+| -------------------------------------------------------- | ------------------------------ | ---------------- | ---------------- |
 | Exit Wounds                                              | James Egbert ft. Nina Sung     | exitwounds       | November 5, 2019 |
 | Funky Computer                                           | James Landino                  | funkycomputer    | November 5, 2019 |
 | Reeds of Mitatrush                                       | asms                           | reedsofmitatrush | November 5, 2019 |
@@ -198,7 +194,7 @@ On Viveport, the packs and seasons pass are not available.
 Become" were released November 5th 2019 on PS4 as exclusive content.
 
 | Song                                                     | Artist                                    | Author (Mapper) | songID               | Pack        | Season Pass      | Release Date      |
-| -------------------------------------------------------- | ----------------------------------------- | --------------- | -------------------- | ----------- | ---------------- | ------------------|
+| -------------------------------------------------------- | ----------------------------------------- | --------------- | -------------------- | ----------- | ---------------- | ----------------- |
 | All Stars                                                | Radio Compass                             | HMXRick         | allstars             | None        | None             | December 18, 2020 |
 | Avalanche                                                | Bex                                       | HMXRick         | avalanche            | None        | None             | May 11, 2020      |
 | bad guy                                                  | Billie Eilish                             | HMXRick         | badguy               | DLC Pack 01 | Season Pass 2019 | November 5, 2019  |

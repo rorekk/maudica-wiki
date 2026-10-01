@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # Guide
 
 ## Locate your AUDICA install folder
@@ -13,10 +9,6 @@ Right click on AUDICA in Steam and go to `Properties`. From there, go to `Local 
 #### On Oculus Store
 
 By default, Oculus games will go to the `C:\Program Files\Oculus\Software\Software` folder. Inside there should be the `harmonix-project-k` folder, which is the AUDICA install folder.
-
-
-
-
 
 ## How To Play Custom Songs
 
@@ -52,10 +44,6 @@ First download songs from [Maudica](https://maudica.com) then follow the PC or Q
 
 4. Once you load up AUDICA you can find your custom songs below the list of OST songs. Enjoy!
 
-
-
-
-
 ## How To Use Custom Guns
 
 ### PC
@@ -70,10 +58,6 @@ First download songs from [Maudica](https://maudica.com) then follow the PC or Q
 2. Place your custom gun files (.obj, .txt, .mtl) into `Quest:\Internal shared storage\Audica\customization\gun`. **Do NOT put gun files into individual folders within the `gun` folder or they won't show up in-game.**
 3. In-game go to `Settings` then `Customization` and you will be able to select your custom guns.
 
-
-
-
-
 ## How To Install Mods (PC)
 
 ### Initial Setup
@@ -86,7 +70,7 @@ To use mods on AUDICA you are required to install Melonloader. It is worth notin
 
 3. Click the INSTALL button then shortly after you should see a `INSTALL was successful!` window.
 
-*NOTE: If you have an old version of MelonLoader you will instead see an UPDATE button and if you already have the current version of MelonLoader you will see a RE-INSTALL button.*
+_NOTE: If you have an old version of MelonLoader you will instead see an UPDATE button and if you already have the current version of MelonLoader you will see a RE-INSTALL button._
 
 ### Installing Mods
 
@@ -96,11 +80,12 @@ To use mods on AUDICA you are required to install Melonloader. It is worth notin
 
 2. Place the mod's dll file into `AUDICA\Mods`.
 
-
 ### Recommended Mods
-*When downloading a mod make sure you download the .dll file and NOT the zip or tar.gz file*
+
+_When downloading a mod make sure you download the .dll file and NOT the zip or tar.gz file_
 
 #### General
+
 [SongBrowser](https://github.com/Silzoid/SongBrowser/releases/latest) - Browse and install custom songs in-game.
 
 [ModBrowser](https://github.com/Contiinuum/ModBrowser/releases/latest) - Download and update mods in-game. NOTE: Updating a mod in-game requires a restart.
@@ -109,29 +94,25 @@ To use mods on AUDICA you are required to install Melonloader. It is worth notin
 
 [Meeps' UI Enhancements](https://github.com/MeepsKitten/Meeps-Audica-UI-Enhancements/releases/latest) - Modifies the song screen in-game to display album art (when available) as well as a quick difficulty selector. [SongDataLoader](https://github.com/MeepsKitten/Audica-SongDataLoader/releases/latest) **is required for album art to work.**
 
-
 #### For Streamers
+
 [ScoreOverlay](https://github.com/octoberU/ScoreOverlay/releases/latest) - An overlay that can show information about the song you are currently playing (title, artist, mapper, and difficulty) as well as your score for the song.
 
 [TwitchModifiers](https://github.com/Contiinuum/TwitchModifiers/releases/latest) - Give your Twitch viewers the power to mess with you while playing. Can be configured to use channel points. For list of chat commands visit the [TwitchModifiers](https://github.com/Contiinuum/TwitchModifiers) page.
 
 [SongRequest](https://github.com/Silzoid/SongRequest/releases/latest) - Your Twitch chat can request songs using !asr. If you also have SongBrowser installed, chat can request songs you don't have installed yet.
 
-
 #### Customization
+
 [ArenaLoader](https://github.com/octoberU/Arena-Loader/releases/latest) - A mod to make use of custom arenas.
 
 [ParticleKiller](https://github.com/octoberU/ParticleKiller/releases/latest) - Increase or decrease the amount of particles caused by shooting a target.
 
-
 ## How To Install Mods (Quest)
+
 Currently mods cannot be used on Quest. Once MelonLoader adds support for Quest existing mods should work.
 
 **NOTE: Custom songs and custom guns work without mods!**
-
-
-
-
 
 ## How To Use Custom Arenas
 
@@ -141,12 +122,8 @@ Currently mods cannot be used on Quest. Once MelonLoader adds support for Quest 
 2. Download [ArenaLoader](https://github.com/octoberU/Arena-Loader/releases/latest).
 3. Place `ArenaLoader.dlll` into your `Mods` folder which is located in your AUDICA install folder.
 4. Download custom arenas from #arenas in the [Audica Modding Group](https://discord.gg/cakQUt5) Discord server.
-5. Place `.arena` files into `Audica\Mods\Arenas`. *If `Arenas` doesn't exist yet then create one.*
+5. Place `.arena` files into `Audica\Mods\Arenas`. _If `Arenas` doesn't exist yet then create one._
 6. Custom arenas will show up in your settings menu below the official arenas.
-
-
-
-
 
 ## How To Make Custom Songs
 
@@ -160,7 +137,6 @@ Its first instance was as Audica Editor by Rolo, which was forked by Cameron and
 
 It is still in active development, with new features being added all the time to make it more and more close to the efficiency of Reaper.
 
-
 [Download (Windows)](https://github.com/octoberU/NotReaper/releases/latest)
 
 [Download (Mac/Linux)](https://github.com/mallgrab/NotReaper/releases)
@@ -169,13 +145,11 @@ It is still in active development, with new features being added all the time to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4MIahCZRkUg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
 ### Reaper
 
 Reaper is the official tool used by Harmonix to make their songs. However, it is pretty advanced. If you're already comfortable in DAWs and don't mind the learning curve, Reaper is probably the choice for you.
 
 [Download](https://www.reaper.fm/download.php)
-
 
 Harmonix has a great tutorial and documentation that you can check out here:
 
