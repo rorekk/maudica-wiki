@@ -90,7 +90,7 @@ To use mods on AUDICA you are required to install Melonloader. It is worth notin
 
 ### Installing Mods
 
-**To use mods in AUDICA you are required to install MelonLoader.**
+**To use mods in AUDICA you are required to install MelonLoader 0.5.x.**
 
 1. Download a mod from [Maudica](https://maudica.com/mods). Some recommended mods can be found in the next section.
 
