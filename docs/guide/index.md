@@ -10,11 +10,15 @@ Right click on AUDICA in Steam and go to `Properties`. From there, go to `Local 
 
 By default, Oculus games will go to the `C:\Program Files\Oculus\Software\Software` folder. Inside there should be the `harmonix-project-k` folder, which is the AUDICA install folder.
 
+#### On Steam Frame
+
+The default localtion is `/home/steamos/.local/share/Steam/steamapps/common/Audica`.
+
 ## How To Play Custom Songs
 
 First download songs from [Maudica](https://maudica.com) then follow the PC or Quest instructions below.
 
-### PC
+### PC & Steam Frame
 
 1. [Locate your AUDICA install folder](https://wiki.maudica.com/guide/#locate-your-audica-install-folder)
 
@@ -46,7 +50,7 @@ First download songs from [Maudica](https://maudica.com) then follow the PC or Q
 
 ## How To Use Custom Guns
 
-### PC
+### PC & Steam Frame
 
 1. Download custom guns from #guns in the [Audica Modding Group](https://discord.gg/cakQUt5) Discord server. **If the downloaded file is a .zip or a .rar you will need to extract it first.**
 2. Place your custom gun files (.obj, .txt, .mtl) into `Audica\customization\gun`. **Do NOT put gun files into individual folders within the `gun` folder or they won't show up in-game.**
@@ -58,11 +62,13 @@ First download songs from [Maudica](https://maudica.com) then follow the PC or Q
 2. Place your custom gun files (.obj, .txt, .mtl) into `Quest:\Internal shared storage\Audica\customization\gun`. **Do NOT put gun files into individual folders within the `gun` folder or they won't show up in-game.**
 3. In-game go to `Settings` then `Customization` and you will be able to select your custom guns.
 
-## How To Install Mods (PC)
-
-### Initial Setup
+## How To Install Mods (PC & Steam Frame)
 
 To use mods on AUDICA you are required to install Melonloader. It is worth noting that mods are not required to play custom songs.
+
+**To use mods on AUDICA you are required to install MelonLoader 0.5.x.**
+
+### Initial Setup (PC)
 
 1. Download and run MelonLoader.
 
@@ -72,9 +78,17 @@ To use mods on AUDICA you are required to install Melonloader. It is worth notin
 
 _NOTE: If you have an old version of MelonLoader you will instead see an UPDATE button and if you already have the current version of MelonLoader you will see a RE-INSTALL button._
 
-### Installing Mods
+### Initial Setup (Steam Frame, requires files from PC install)
 
-**To use mods in AUDICA you are required to install MelonLoader 0.5.x.**
+1. Download the manual install of MelonLoader x64 from MelonLoader's github.
+
+2. Unzip the MelonLoader install to the root of Audica.
+
+3. Overwrite the MelonLoader folder in your Frame's Audica install with your PC's MelonLoader install.
+
+4. Add `WINEDLLOVERRIDES="version=n,b" %command%` to Audica's launch options on Steam.
+
+### Installing Mods
 
 1. Download a mod from [Maudica](https://maudica.com/mods). Some recommended mods can be found in the next section.
 
@@ -116,7 +130,7 @@ Currently mods cannot be used on Quest. Once MelonLoader adds support for Quest 
 
 ## How To Use Custom Arenas
 
-**Custom arenas are only available on PC.**
+**Custom arenas are only available on PC and Steam Frame.**
 
 1. Install MelonLoader by following the [Initial Setup](https://wiki.maudica.com/guide/#initial-setup) guide.
 2. Download [ArenaLoader](https://github.com/octoberU/Arena-Loader/releases/latest).
